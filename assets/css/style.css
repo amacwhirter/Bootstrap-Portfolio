@@ -64,4 +64,11 @@ footer {
   border-color: gray;
 }
 
+input[type=text],
+input[type=email],
+textarea {
+  padding: 0 10px;
+  font-size: 14px;
+  border: 1px solid #ddd;
+
 
